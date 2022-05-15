@@ -20,7 +20,7 @@
             "url": "https://raw.githubusercontent.com/rayan4444/Adafruit_nRF52_Arduino/test/package_tapid_index.tar.bz2",
             "archiveFileName": "package_tapid_index.tar.bz2",
             "checksum": "SHA-256:291a0daf664f32c885cd934bd23a2b0581de42b596b5b2b1264e8ee3adce96a7",
-            "size": "(17144021",
+            "size": "17144021",
             "boards": [
             {
                 "name": "TapID Mainboard v3.0"
