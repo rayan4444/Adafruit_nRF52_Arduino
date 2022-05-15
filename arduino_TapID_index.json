@@ -19,7 +19,7 @@
             },
             "url": "https://raw.githubusercontent.com/rayan4444/Adafruit_nRF52_Arduino/test/package_tapid_index.tar.bz2",
             "archiveFileName": "package_tapid_index.tar.bz2",
-            "checksum": "SHA-256:85888baaaea7b368067abbc909bbf11d9484311562d0efdea8130fdcb23513f9",
+            "checksum": "SHA-256:21cb9c6351d11393f41a307858145e5983051b8c3d04a8d6a5389b3e120637aa",
             "size": "16778525",
             "boards": [
             {
