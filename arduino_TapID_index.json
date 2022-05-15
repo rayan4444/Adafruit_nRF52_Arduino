@@ -17,7 +17,7 @@
             "help": {
               "online": "https://siplab.org/"
             },
-            "url": "https://github.com/rayan4444/Adafruit_nRF52_Arduino/tree/test/package_tapid_index.tar.bz2",
+            "url": "https://raw.githubusercontent.com/rayan4444/Adafruit_nRF52_Arduino/test/package_tapid_index.tar.bz2",
             "archiveFileName": "package_tapid_index.tar.bz2",
             "checksum": "SHA-256:85888baaaea7b368067abbc909bbf11d9484311562d0efdea8130fdcb23513f9",
             "size": "16778525",
