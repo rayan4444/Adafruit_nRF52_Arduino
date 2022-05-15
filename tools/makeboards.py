@@ -129,29 +129,9 @@ build_global_menu()
 
 make_board("feather52832", "feather_nrf52832", "Adafruit", "Feather nRF52832", "NRF52832_FEATHER",
            "0x239A", [])
-make_board("feather52840", "feather_nrf52840_express", "Adafruit", "Feather nRF52840 Express", "NRF52840_FEATHER",
-           "0x239A", ["0x8029", "0x0029", "0x002A", "0x802A"])
 
 make_board("feather52840sense", "feather_nrf52840_sense", "Adafruit", "Feather nRF52840 Sense", "NRF52840_FEATHER_SENSE",
            "0x239A", ["0x8087", "0x0087", "0x0088", "0x8088"])
-
-make_board("itsybitsy52840", "itsybitsy_nrf52840_express", "Adafruit", "ItsyBitsy nRF52840 Express", "NRF52840_ITSYBITSY -DARDUINO_NRF52_ITSYBITSY",
-           "0x239A", ["0x8051", "0x0051", "0x0052", "0x8052"])
-
-make_board("cplaynrf52840", "circuitplayground_nrf52840", "Adafruit", "Circuit Playground Bluefruit", "NRF52840_CIRCUITPLAY",
-           "0x239A", ["0x8045", "0x0045", "0x8046"])
-
-make_board("cluenrf52840", "clue_nrf52840", "Adafruit", "CLUE", "NRF52840_CLUE",
-           "0x239A", ["0x8071", "0x0071", "0x8072"])
-
-make_board("ledglasses_nrf52840", "ledglasses_nrf52840", "Adafruit", "LED Glasses Driver nRF52840", "NRF52840_LED_GLASSES",
-           "0x239A", ["0x810D", "0x010D", "0x810E"])
-
-make_board("mdbt50qrx", "raytac_mdbt50q_rx", "Raytac", "nRF52840 Dongle", "MDBT50Q_RX",
-           "0x239A", ["0x810B", "0x010B", "0x810C"])
-
-make_board("metro52840", "metro_nrf52840_express", "Adafruit", "Metro nRF52840 Express", "NRF52840_METRO",
-           "0x239A", ["0x803F", "0x003F", "0x0040", "0x8040"])
 
 print()
 print()
@@ -164,5 +144,5 @@ print("# -------------------------------------------------------")
 make_board("pca10056", "pca10056", "Nordic", "nRF52840 DK", "NRF52840_PCA10056",
            "0x239A", ["0x8029", "0x0029"])
 
-make_board("particle_xenon", "particle_xenon", "Particle", "Xenon", "PARTICLE_XENON",
-           "0x239A", ["0x8029", "0x0029"])
+make_board("tapid_mainboard_30", "tapid_mainboard_30", "Sip Lab ETHZ", "TapID Mainboard v3.0", "TAPID_MAINBOARD_30",
+           "0x239A",  ["0x8029", "0x0029"])
