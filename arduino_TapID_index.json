@@ -1,7 +1,7 @@
 {
     "packages": [            
       {
-        "name": "TapID Mainboard v3.0",
+        "name": "siplab",
         "maintainer": "Sensing Interaction and Perception Lab, ETHZ",
         "websiteURL": "https://siplab.org/",
         "email": "",
@@ -12,7 +12,7 @@
           {
             "name": "TapID Mainboards",
             "architecture": "nrf52",
-            "version": "0.1",
+            "version": "1.0",
             "category": "Contributed",
             "help": {
               "online": "https://siplab.org/"
@@ -31,17 +31,17 @@
             ],
             "toolsDependencies": [
                 {
-                    "packager": "adafruit",
+                    "packager": "siplab",
                     "name": "arm-none-eabi-gcc",
                     "version": "9-2019q4"
                 },
                 {
-                    "packager": "adafruit",
+                    "packager": "siplab",
                     "name": "nrfjprog",
                     "version": "9.4.0"
                 },
                 {
-                    "packager": "adafruit",
+                    "packager": "siplab",
                     "name": "CMSIS",
                     "version": "5.7.0"
                 }
