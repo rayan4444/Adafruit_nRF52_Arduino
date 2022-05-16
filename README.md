@@ -21,7 +21,7 @@ There are two methods that you can use to install this board support package.
  3. Go into Preferences
  4. Add https://raw.githubusercontent.com/rayan4444/Adafruit_nRF52_Arduino/master/arduino_TapID_index.json as an 'Additional Board Manager URL'
  5. Restart the Arduino IDE
- 6. Open the Boards Manager from the Tools -> Board menu and install 'Adafruit nRF52 by Adafruit'
+ 6. Open the Boards Manager from the Tools -> Board menu and install 'TapID Mainboards'
  7. Once the BSP is installed, select 'Adafruit Feather nRF52840 Express' from the Tools -> Board menu, which will update your system config to use the right compiler and settings for the nRF52.
 
 ### Optional : if you want to add support for a new baord:
