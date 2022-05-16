@@ -127,20 +127,6 @@ def make_board(name, variant, vendor_name, product_name, boarddefine, vid, pid_l
 
 build_global_menu()
 
-make_board("feather52832", "feather_nrf52832", "Adafruit", "Feather nRF52832", "NRF52832_FEATHER",
-           "0x239A", [])
-
-make_board("feather52840sense", "feather_nrf52840_sense", "Adafruit", "Feather nRF52840 Sense", "NRF52840_FEATHER_SENSE",
-           "0x239A", ["0x8087", "0x0087", "0x0088", "0x8088"])
-
-print()
-print()
-print("# -------------------------------------------------------")
-print("#")
-print("# Boards that aren't made by Adafruit")
-print("#")
-print("# -------------------------------------------------------")
-
 make_board("pca10056", "pca10056", "Nordic", "nRF52840 DK", "NRF52840_PCA10056",
            "0x239A", ["0x8029", "0x0029"])
 

@@ -27,7 +27,13 @@
             },
             {
                 "name": "TapID Mainboard v3.1"
-            }
+            },
+            {
+              "name": "PCA10040"
+            }, 
+            {
+              "name": "PCA10056"
+            } 
             ],
             "toolsDependencies": [
                 {
