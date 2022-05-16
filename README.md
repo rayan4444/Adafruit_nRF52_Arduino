@@ -48,7 +48,7 @@ There are two methods that you can use to install this board support package.
  7. Once the BSP is installed, select 'Adafruit Feather nRF52840 Express' from the Tools -> Board menu, which will update your system config to use the right compiler and settings for the nRF52.
 
  8. Updating the package's archive and .json file
- * archive: ``` sudo tar -cvjSf packages_tapid_index.tar.bz2 * ```
+ * archive: ``` sudo tar -cvjSf package_tapid_index.tar.bz2 * ```
  * SHA 256 checksum : ```shasum -a 256 package_tapid_index.tar.bz2```
 
 ### Flashing a board 

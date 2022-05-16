@@ -17,10 +17,10 @@
             "help": {
               "online": "https://siplab.org/"
             },
-            "url": "https://raw.githubusercontent.com/rayan4444/Adafruit_nRF52_Arduino/test/package_tapid_index.tar.bz2",
+            "url": "https://raw.githubusercontent.com/rayan4444/Adafruit_nRF52_Arduino/master/package_tapid_index.tar.bz2",
             "archiveFileName": "package_tapid_index.tar.bz2",
-            "checksum": "SHA-256:291a0daf664f32c885cd934bd23a2b0581de42b596b5b2b1264e8ee3adce96a7",
-            "size": "17144021",
+            "checksum": "SHA-256:ffb36ce627503b9c68e1aaf7d9858d70bf729e88e8ee1a568be87ab628709333",
+            "size": "16501503",
             "boards": [
             {
                 "name": "TapID Mainboard v3.0"
